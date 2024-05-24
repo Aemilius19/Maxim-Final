@@ -1,0 +1,17 @@
+C:\Users\ca.r214.11\Desktop\FinalExam\Maxim\Maxim_Application\bin\Debug\net8.0\Maxim_Application.deps.json
+C:\Users\ca.r214.11\Desktop\FinalExam\Maxim\Maxim_Application\bin\Debug\net8.0\Maxim_Application.runtimeconfig.json
+C:\Users\ca.r214.11\Desktop\FinalExam\Maxim\Maxim_Application\bin\Debug\net8.0\Maxim_Application.dll
+C:\Users\ca.r214.11\Desktop\FinalExam\Maxim\Maxim_Application\bin\Debug\net8.0\Maxim_Application.pdb
+C:\Users\ca.r214.11\Desktop\FinalExam\Maxim\Maxim_Application\bin\Debug\net8.0\Maxim_Domain.dll
+C:\Users\ca.r214.11\Desktop\FinalExam\Maxim\Maxim_Application\bin\Debug\net8.0\Maxim_Domain.pdb
+C:\Users\ca.r214.11\Desktop\FinalExam\Maxim\Maxim_Application\obj\Debug\net8.0\Maxim_Application.csproj.AssemblyReference.cache
+C:\Users\ca.r214.11\Desktop\FinalExam\Maxim\Maxim_Application\obj\Debug\net8.0\Maxim_Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ca.r214.11\Desktop\FinalExam\Maxim\Maxim_Application\obj\Debug\net8.0\Maxim_Application.AssemblyInfoInputs.cache
+C:\Users\ca.r214.11\Desktop\FinalExam\Maxim\Maxim_Application\obj\Debug\net8.0\Maxim_Application.AssemblyInfo.cs
+C:\Users\ca.r214.11\Desktop\FinalExam\Maxim\Maxim_Application\obj\Debug\net8.0\Maxim_Application.csproj.CoreCompileInputs.cache
+C:\Users\ca.r214.11\Desktop\FinalExam\Maxim\Maxim_Application\obj\Debug\net8.0\Maxim_Ap.B1CE48C4.Up2Date
+C:\Users\ca.r214.11\Desktop\FinalExam\Maxim\Maxim_Application\obj\Debug\net8.0\Maxim_Application.dll
+C:\Users\ca.r214.11\Desktop\FinalExam\Maxim\Maxim_Application\obj\Debug\net8.0\refint\Maxim_Application.dll
+C:\Users\ca.r214.11\Desktop\FinalExam\Maxim\Maxim_Application\obj\Debug\net8.0\Maxim_Application.pdb
+C:\Users\ca.r214.11\Desktop\FinalExam\Maxim\Maxim_Application\obj\Debug\net8.0\Maxim_Application.genruntimeconfig.cache
+C:\Users\ca.r214.11\Desktop\FinalExam\Maxim\Maxim_Application\obj\Debug\net8.0\ref\Maxim_Application.dll
